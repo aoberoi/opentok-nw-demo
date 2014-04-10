@@ -1,6 +1,6 @@
 # opentok-nw-demo
 
-OpenTok Native Hello World application, built on node-webkit
+OpenTok Native Hello World application, built on [node-webkit](https://github.com/rogerwang/node-webkit).
 
 ## Building
 
