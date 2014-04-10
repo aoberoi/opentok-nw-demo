@@ -1,0 +1,9 @@
+{
+  "name": "opentok-nw-demo",
+  "version": "0.0.1",
+  "main": "index.html",
+  "window": {
+    "title" : "OpenTok Native Hello World",
+    "toolbar": false
+  }
+}
